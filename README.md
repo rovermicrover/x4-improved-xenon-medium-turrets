@@ -12,9 +12,9 @@ xenon medium pulse turret bullet file
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419909)
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1911939399)
 
 [Github](https://github.com/rovermicrover/x4-improved-xenon-medium-turrets)
 

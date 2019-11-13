@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+    <replace sel="//macros/macro[@name='bullet_xen_turret_m_laser_01_mk1_macro']/properties/damage/@value">38</replace>
+</diff>
